@@ -10,6 +10,7 @@ Specialized branches are available, which provide `.gitignore` files tailored to
 
 1. Navigate to a branch name corresponding to the needs of your project.
 2. Copy or download the `.gitignore` file from the branch and add it to the root directory of your Python project.
+
 **OPTIONAL:** Read the instructions found in that branch's `README.md`.
 
 ### Available Specializations
