@@ -2,14 +2,15 @@
 
 # Usage
 
-The quickest way to get started is to copy or download the `.gitignore` file from the **main** branch of this repository, and adding it directly into the root directory of your Python project.
+The quickest way to get started is to copy or download the `.gitignore` file from the **main** branch, add it directly into the root directory of your Python project, and then customize it to fit the needs of your project.
 
 ## Using Specialized Python Project `.gitignore` Files:
 
 Specialized branches are available, which provide `.gitignore` files tailored to specific Python project types, offering a more focused approach to ignoring irrelevant files.
 
 1. Navigate to a branch name corresponding to the needs of your project.
-2. Follow the instructions found in the branch's `README.md`.
+2. Copy or download the `.gitignore` file from the branch and add it to the root directory of your Python project.
+3. **Optional:** Read the instructions found in that branch's `README.md`.
 
 ### Available Specializations
 
