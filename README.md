@@ -6,11 +6,11 @@ The quickest way to get started is to copy or download the `.gitignore` file fro
 
 ## Using Specialized Python Project `.gitignore` Files:
 
-Specialized branches are available, which provide `.gitignore` files tailored to specific Python project types, offering a more focused approach to ignoring irrelevant files.
+Specialized branches are available, which provide `.gitignore` files tailored to more specific Python project types, offering a more focused approach to ignoring irrelevant files.
 
 1. Navigate to a branch name corresponding to the needs of your project.
 2. Copy or download the `.gitignore` file from the branch and add it to the root directory of your Python project.
-3. **OPTIONAL:** Read the instructions found in that branch's `README.md`.
+**OPTIONAL:** Read the instructions found in that branch's `README.md`.
 
 ### Available Specializations
 
@@ -40,18 +40,18 @@ Below is a brief overview of the sections included in the `.gitignore` file:
 
 ---
 
-# Contribution Guidelines: Contributions are welcome!
+# CONTRIBUTIONS ARE WELCOME!
 
 ## Contributing to an Existing Branch:
 
-To contribute enhancements to an existing branch's `.gitignore`:
+To contribute to an existing branch:
 
 1. Fork the repository and create a new branch based on the target branch you wish to contribute to.
 2. Submit a pull request to the target branch with your proposed changes.
 
 ## Adding a New Specialization / Branch:
 
-1. Fork the repository and create a new branch (presumably, but not necessarily, based on the **main** branch).
+1. Fork the repository and create a new branch (_presumably, but not necessarily, based on the **main** branch_).
 2. Set up the `README.md` and `.gitignore` according to the new specialization's requirements. For the `README.md`, please at least provide a short **Introduction** and **Overview** section.
 3. Submit a pull request to the main repository with your new branch for review.
 
