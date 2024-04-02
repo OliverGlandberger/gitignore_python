@@ -1,20 +1,17 @@
 # Python `.gitignore` Collection
 
-# Usage:
+# Usage
 
-1. Clone this repository  or directly download the `.gitignore` file.
-2. Copy the `.gitignore` file into the root directory of your Python project.
+## Getting Started
 
-### Using Specialized `.gitignore` Files:
+1. The quickest way to get started is to copy or download the `.gitignore` file from the **main** branch of this repository, and adding it directly into the root directory of your Python project.
 
-1. Navigate to the branch corresponding to your project type (see [Available Specializations](available-specializations) or available branches).
+### Using Specialized Python Project `.gitignore` Files:
+
+Specialized branches are available, which provide `.gitignore` files tailored to specific Python project types, offering a more focused approach to ignoring irrelevant files.
+
+1. Navigate to a branch name corresponding to the needs of your project.
 2. Follow the instructions found in the branch's `README.md`.
-
-## Specialized `.gitignore` Files for Python Projects
-
-### Purpose
-
-These specialized branches provide `.gitignore` files tailored to specific Python project types, offering a more focused approach to ignoring irrelevant files.
 
 ### Available Specializations
 
@@ -22,11 +19,11 @@ These specialized branches provide `.gitignore` files tailored to specific Pytho
 
 ---
 
-## Introduction
+# Introduction
 
 This repository hosts a comprehensive `.gitignore` file specifically tailored for Python projects. The purpose of this file is to help developers prevent unnecessary or sensitive files from being committed to version control, ensuring cleaner repositories and minimizing the risk of accidentally sharing confidential data or bloated directories.
 
-## Overview
+# Overview
 
 Below is a brief overview of the sections included in the `.gitignore` file:
 
@@ -44,11 +41,11 @@ Below is a brief overview of the sections included in the `.gitignore` file:
 
 ---
 
-## Contribution Guidelines
+# Contribution Guidelines
 
 **Contributions are welcome!**
 
-### Contributing to an Existing Branch:
+## Contributing to an Existing Branch:
 
 To contribute enhancements to an existing `.gitignore`:
 
@@ -56,14 +53,14 @@ To contribute enhancements to an existing `.gitignore`:
 2. Create a new branch in your fork for the changes.
 3. Submit a pull request to the target branch with your proposed changes.
 
-### Adding a New Specialization / Branch:
+## Adding a New Specialization / Branch:
 
 1. Fork the repository.
 2. Create a new branch in your fork for the new specialization.
 3. Set up the `README.md` and `.gitignore` according to the new specialization's requirements.
 4. Submit a pull request to the main repository with your new branch for review.
 
-## License
+# License
 
 This work is licensed under the terms of the MIT license.  
 For a copy, see <https://opensource.org/licenses/MIT>.
