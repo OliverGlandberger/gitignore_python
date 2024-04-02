@@ -2,7 +2,7 @@
 
 # Usage
 
-The quickest way to get started is to copy or download the `.gitignore` file from the **main** branch, add it directly into the root directory of your Python project, and then customize it to fit the needs of your project.
+The quickest way to get started is to copy or download the `.gitignore` file from this **main** branch, add it directly into the root directory of your Python project, and then customize it to fit the needs of your project.
 
 ## Using Specialized Python Project `.gitignore` Files:
 
@@ -10,7 +10,7 @@ Specialized branches are available, which provide `.gitignore` files tailored to
 
 1. Navigate to a branch name corresponding to the needs of your project.
 2. Copy or download the `.gitignore` file from the branch and add it to the root directory of your Python project.
-3. **Optional:** Read the instructions found in that branch's `README.md`.
+3. **OPTIONAL:** Read the instructions found in that branch's `README.md`.
 
 ### Available Specializations
 
@@ -40,24 +40,20 @@ Below is a brief overview of the sections included in the `.gitignore` file:
 
 ---
 
-# Contribution Guidelines
-
-**Contributions are welcome!**
+# Contribution Guidelines: Contributions are welcome!
 
 ## Contributing to an Existing Branch:
 
-To contribute enhancements to an existing `.gitignore`:
+To contribute enhancements to an existing branch's `.gitignore`:
 
-1. Fork the repository.
-2. Create a new branch in your fork for the changes.
-3. Submit a pull request to the target branch with your proposed changes.
+1. Fork the repository and create a new branch based on the target branch you wish to contribute to.
+2. Submit a pull request to the target branch with your proposed changes.
 
 ## Adding a New Specialization / Branch:
 
-1. Fork the repository.
-2. Create a new branch in your fork for the new specialization.
-3. Set up the `README.md` and `.gitignore` according to the new specialization's requirements.
-4. Submit a pull request to the main repository with your new branch for review.
+1. Fork the repository and create a new branch (presumably, but not necessarily, based on the **main** branch).
+2. Set up the `README.md` and `.gitignore` according to the new specialization's requirements. For the `README.md`, please at least provide a short **Introduction** and **Overview** section.
+3. Submit a pull request to the main repository with your new branch for review.
 
 # License
 
