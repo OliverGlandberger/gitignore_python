@@ -1,20 +1,34 @@
 # Python `.gitignore` Collection
 
+# Usage:
+
+1. Clone this repository  or directly download the `.gitignore` file.
+2. Copy the `.gitignore` file into the root directory of your Python project.
+
+### Using Specialized `.gitignore` Files:
+
+1. Navigate to the branch corresponding to your project type (see [Available Specializations](available-specializations) or available branches).
+2. Follow the instructions found in the branch's `README.md`.
+
+## Specialized `.gitignore` Files for Python Projects
+
+### Purpose
+
+These specialized branches provide `.gitignore` files tailored to specific Python project types, offering a more focused approach to ignoring irrelevant files.
+
+### Available Specializations
+
+- **[TEMP](LINK_GOES_HERE)**
+
+---
+
 ## Introduction
 
 This repository hosts a comprehensive `.gitignore` file specifically tailored for Python projects. The purpose of this file is to help developers prevent unnecessary or sensitive files from being committed to version control, ensuring cleaner repositories and minimizing the risk of accidentally sharing confidential data or bloated directories.
 
-## How to Use
+## Overview
 
-To use this `.gitignore` in your Python project, follow these steps:
-
-1. Clone this repository or directly download the `.gitignore` file.
-2. Copy the `.gitignore` file into the root directory of your Python project.
-3. If necessary, rename the file to `.gitignore` (GitHub will recognize it automatically).
-
-## `.gitignore` Overview
-
-Below is a brief overview of the sections included in the `.gitignore` file, along with a short description of each:
+Below is a brief overview of the sections included in the `.gitignore` file:
 
 - **Byte-compiled / optimized / DLL files**: Exclude Python bytecode, optimization files, and dynamic load modules to avoid platform-specific binaries in the repository.
 - **C extensions**: Ignore compiled C extension files which are platform-specific.
@@ -28,20 +42,26 @@ Below is a brief overview of the sections included in the `.gitignore` file, alo
 - **Development environments**: Exclude virtual environment directories and configuration files to avoid conflicts between different development setups.
 - **IDE/Editor specifics**: Ignore settings for popular IDEs and editors like Spyder, PyCharm, and Visual Studio Code.
 
-## Customization Tips
-
-Feel free to customize the `.gitignore` file for your project's needs:
-
-- Add or remove sections based on the tools and libraries you use.
-- Consider project-specific artifacts that may not be covered by this general template.
+---
 
 ## Contribution Guidelines
 
-Contributions are welcome! If you have suggestions for improving this `.gitignore` file, please:
+**Contributions are welcome!**
+
+### Contributing to an Existing Branch:
+
+To contribute enhancements to an existing `.gitignore`:
 
 1. Fork the repository.
-2. Create a new branch for your changes.
-3. Submit a pull request with a clear description of your enhancements.
+2. Create a new branch in your fork for the changes.
+3. Submit a pull request to the target branch with your proposed changes.
+
+### Adding a New Specialization / Branch:
+
+1. Fork the repository.
+2. Create a new branch in your fork for the new specialization.
+3. Set up the `README.md` and `.gitignore` according to the new specialization's requirements.
+4. Submit a pull request to the main repository with your new branch for review.
 
 ## License
 
