@@ -13,10 +13,6 @@ Specialized branches are available, which provide `.gitignore` files tailored to
 
 **OPTIONAL:** Read the instructions found in that branch's `README.md`.
 
-### Available Specializations
-
-- **[TEMP](LINK_GOES_HERE)**
-
 ---
 
 # Introduction
